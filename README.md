@@ -1,7 +1,5 @@
 # qb-banking
 
-test commit
-
 # License
 
     QBCore Framework
