@@ -1,6 +1,6 @@
 # qb-banking
 
-# License Test
+# License
 
     QBCore Framework
     Copyright (C) 2021 Joshua Eger
